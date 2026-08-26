@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%" height="100%">
+  <defs>
+    <radialGradient id="bgGrad6" cx="50%" cy="50%" r="65%">
+      <stop offset="0%" stop-color="#2a142e" />
+      <stop offset="60%" stop-color="#140a17" />
+      <stop offset="100%" stop-color="#070208" />
+    </radialGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="50%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#e11d48" />
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="600" fill="url(#bgGrad6)" />
+
+  <!-- Modern Kinetic Rhythm Waves -->
+  
+    <circle cx="300" cy="300" r="60" fill="none" stroke="url(#waveGrad)" stroke-width="2.5" stroke-dasharray="16 8" opacity="0.6421052631578947" />
+  
+    <circle cx="300" cy="300" r="100" fill="none" stroke="url(#waveGrad)" stroke-width="2.5" stroke-dasharray="16 8" opacity="0.536842105263158" />
+  
+    <circle cx="300" cy="300" r="140" fill="none" stroke="url(#waveGrad)" stroke-width="2.5" stroke-dasharray="16 8" opacity="0.4315789473684211" />
+  
+    <circle cx="300" cy="300" r="180" fill="none" stroke="url(#waveGrad)" stroke-width="2.5" stroke-dasharray="16 8" opacity="0.3263157894736843" />
+  
+    <circle cx="300" cy="300" r="220" fill="none" stroke="url(#waveGrad)" stroke-width="1.5" stroke-dasharray="16 8" opacity="0.2210526315789474" />
+  
+    <circle cx="300" cy="300" r="260" fill="none" stroke="url(#waveGrad)" stroke-width="1.5" stroke-dasharray="16 8" opacity="0.11578947368421055" />
+  
+
+  <!-- Geometric Tribal Starburst Core -->
+  <polygon points="300,180 330,260 410,260 345,310 370,390 300,340 230,390 255,310 190,260 270,260" fill="#831843" stroke="#f59e0b" stroke-width="3" opacity="0.8" />
+  <circle cx="300" cy="300" r="50" fill="#d97706" opacity="0.9" />
+  <circle cx="300" cy="300" r="28" fill="#fbbf24" />
+
+  <!-- Equalizer Dhemsa Fusion Bars -->
+  <g transform="translate(150, 440)">
+    <rect x="0" y="-25" width="10" height="25" rx="4" fill="#f59e0b" opacity="0.6" /><rect x="20" y="-47.54761905331918" width="10" height="47.54761905331918" rx="4" fill="#f59e0b" opacity="0.75" /><rect x="40" y="-59.490740549596104" width="10" height="59.490740549596104" rx="4" fill="#f59e0b" opacity="0.8999999999999999" /><rect x="60" y="-55.212327832710585" width="10" height="55.212327832710585" rx="4" fill="#f59e0b" opacity="0.6" /><rect x="80" y="-36.72458525545668" width="10" height="36.72458525545668" rx="4" fill="#f59e0b" opacity="0.75" /><rect x="100" y="-12.722587030863306" width="10" height="12.722587030863306" rx="4" fill="#f59e0b" opacity="0.8999999999999999" /><rect x="120" y="5.5051520344755716" width="10" height="-5.5051520344755716" rx="4" fill="#f59e0b" opacity="0.6" /><rect x="140" y="9.385841441851639" width="10" height="-9.385841441851639" rx="4" fill="#f59e0b" opacity="0.75" /><rect x="160" y="-2.9056676744687415" width="10" height="2.9056676744687415" rx="4" fill="#f59e0b" opacity="0.8999999999999999" /><rect x="180" y="-25.58848651695224" width="10" height="25.58848651695224" rx="4" fill="#f59e0b" opacity="0.6" /><rect x="200" y="-47.994530955157614" width="10" height="47.994530955157614" rx="4" fill="#f59e0b" opacity="0.75" /><rect x="220" y="-59.58588818569501" width="10" height="59.58588818569501" rx="4" fill="#f59e0b" opacity="0.8999999999999999" /><rect x="240" y="-54.910961783089846" width="10" height="54.910961783089846" rx="4" fill="#f59e0b" opacity="0.6" /><rect x="260" y="-36.16844268222732" width="10" height="36.16844268222732" rx="4" fill="#f59e0b" opacity="0.75" /><rect x="280" y="-12.173230476182564" width="10" height="12.173230476182564" rx="4" fill="#f59e0b" opacity="0.8999999999999999" />
+  </g>
+
+  <rect x="18" y="18" width="564" height="564" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0.75" />
+  <text x="300" y="580" text-anchor="middle" fill="#fcd34d" font-family="Cinzel, serif, Georgia" font-size="12" letter-spacing="4" opacity="0.8">DHEMSA TARANG • FUSION</text>
+</svg>

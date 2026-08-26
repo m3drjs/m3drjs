@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%" height="100%">
+  <defs>
+    <radialGradient id="bgGrad5" cx="50%" cy="50%" r="65%">
+      <stop offset="0%" stop-color="#3b1d11" />
+      <stop offset="60%" stop-color="#1c0b05" />
+      <stop offset="100%" stop-color="#080201" />
+    </radialGradient>
+    <radialGradient id="fireAura" cx="50%" cy="65%" r="50%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0.45" />
+      <stop offset="60%" stop-color="#f59e0b" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="600" height="600" fill="url(#bgGrad5)" />
+  <circle cx="300" cy="360" r="240" fill="url(#fireAura)" />
+
+  <!-- Sacred Changu Circular Drum -->
+  <circle cx="300" cy="240" r="140" fill="#78350f" stroke="#fbbf24" stroke-width="6" />
+  <circle cx="300" cy="240" r="130" fill="#451a03" stroke="#d97706" stroke-width="3" stroke-dasharray="8 6" />
+
+  <!-- Changu Goat-skin surface with sacred sun motif -->
+  <circle cx="300" cy="240" r="115" fill="#2d1205" />
+  <circle cx="300" cy="240" r="50" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-dasharray="6 4" opacity="0.8" />
+  <circle cx="300" cy="240" r="24" fill="#b45309" stroke="#fbbf24" stroke-width="2" />
+  
+  <!-- Drum Tension Thongs (Kandhamal tribal binding) -->
+  <line x1="415" y1="240" x2="440" y2="240" stroke="#fbbf24" stroke-width="3.5" stroke-linecap="round" /><line x1="406.24614623879796" y1="284.00859472198533" x2="429.34313455158014" y2="293.57568053111254" stroke="#fbbf24" stroke-width="3.5" stroke-linecap="round" /><line x1="381.31727983645294" y1="321.31727983645294" x2="398.99494936611666" y2="338.99494936611666" stroke="#fbbf24" stroke-width="3.5" stroke-linecap="round" /><line x1="344.00859472198533" y1="346.24614623879796" x2="353.5756805311126" y2="369.34313455158014" stroke="#fbbf24" stroke-width="3.5" stroke-linecap="round" /><line x1="300" y1="355" x2="300" y2="380" stroke="#fbbf24" stroke-width="3.5" stroke-linecap="round" /><line x1="255.99140527801467" y1="346.24614623879796" x2="246.42431946888743" y2="369.34313455158014" stroke="#fbbf24" stroke-width="3.5" stroke-linecap="round" /><line x1="218.68272016354706" y1="321.31727983645294" x2="201.00505063388334" y2="338.99494936611666" stroke="#fbbf24" stroke-width="3.5" stroke-linecap="round" /><line x1="193.75385376120204" y1="284.00859472198533" x2="170.65686544841986" y2="293.5756805311126" stroke="#fbbf24" stroke-width="3.5" stroke-linecap="round" /><line x1="185" y1="240" x2="160" y2="240.00000000000003" stroke="#fbbf24" stroke-width="3.5" stroke-linecap="round" /><line x1="193.75385376120198" y1="195.99140527801472" x2="170.65686544841984" y2="186.42431946888752" stroke="#fbbf24" stroke-width="3.5" stroke-linecap="round" /><line x1="218.682720163547" y1="158.68272016354706" x2="201.00505063388334" y2="141.00505063388334" stroke="#fbbf24" stroke-width="3.5" stroke-linecap="round" /><line x1="255.99140527801472" y1="133.753853761202" x2="246.42431946888746" y2="110.65686544841984" stroke="#fbbf24" stroke-width="3.5" stroke-linecap="round" /><line x1="300" y1="125" x2="300" y2="100" stroke="#fbbf24" stroke-width="3.5" stroke-linecap="round" /><line x1="344.00859472198533" y1="133.75385376120204" x2="353.5756805311126" y2="110.65686544841986" stroke="#fbbf24" stroke-width="3.5" stroke-linecap="round" /><line x1="381.31727983645294" y1="158.682720163547" x2="398.99494936611666" y2="141.00505063388334" stroke="#fbbf24" stroke-width="3.5" stroke-linecap="round" /><line x1="406.246146238798" y1="195.9914052780147" x2="429.3431345515802" y2="186.42431946888746" stroke="#fbbf24" stroke-width="3.5" stroke-linecap="round" />
+
+  <!-- Bonfire Flames at bottom -->
+  <path d="M220 520 Q260 410 280 430 Q300 370 320 430 Q350 420 380 520 Z" fill="#ef4444" opacity="0.8" />
+  <path d="M250 520 Q280 440 300 450 Q320 440 350 520 Z" fill="#f59e0b" opacity="0.9" />
+  <path d="M280 520 Q300 480 320 520 Z" fill="#fef08a" />
+
+  <!-- Dhemsa steps outline in fire glow -->
+  <g transform="translate(10, 60)" opacity="0.85">
+    
+      <!-- Dancer 0 -->
+      <circle cx="50" cy="332" r="9" fill="#fcd34d" opacity="0.9" />
+      <path d="M50 341 L36 396 L64 396 Z" fill="#f59e0b" opacity="0.85"/>
+      <path d="M50 396 L38 422 L62 422 Z" fill="#d97706" opacity="0.85"/>
+      <!-- Legs in dynamic Dhemsa step -->
+      <path d="M44 422 L38 448 L30 452" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <path d="M56 422 L66 444 L58 452" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <!-- Linked arms -->
+      <path d="M38 398 Q22 390 8 398" stroke="#fef08a" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.8" />
+    
+      <!-- Dancer 1 -->
+      <circle cx="92" cy="340.6082730907943" r="9" fill="#fcd34d" opacity="0.9" />
+      <path d="M92 349.6082730907943 L78 404.6082730907943 L106 404.6082730907943 Z" fill="#f59e0b" opacity="0.85"/>
+      <path d="M92 404.6082730907943 L80 430.6082730907943 L104 430.6082730907943 Z" fill="#d97706" opacity="0.85"/>
+      <!-- Legs in dynamic Dhemsa step -->
+      <path d="M86 430.6082730907943 L80 456.6082730907943 L72 460.6082730907943" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <path d="M98 430.6082730907943 L108 452.6082730907943 L100 460.6082730907943" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <!-- Linked arms -->
+      <path d="M80 406.6082730907943 Q64 398.6082730907943 50 406.6082730907943" stroke="#fef08a" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.8" />
+    
+      <!-- Dancer 2 -->
+      <circle cx="134" cy="343.9948832364981" r="9" fill="#fcd34d" opacity="0.9" />
+      <path d="M134 352.9948832364981 L120 407.9948832364981 L148 407.9948832364981 Z" fill="#f59e0b" opacity="0.85"/>
+      <path d="M134 407.9948832364981 L122 433.9948832364981 L146 433.9948832364981 Z" fill="#d97706" opacity="0.85"/>
+      <!-- Legs in dynamic Dhemsa step -->
+      <path d="M128 433.9948832364981 L122 459.9948832364981 L114 463.9948832364981" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <path d="M140 433.9948832364981 L150 455.9948832364981 L142 463.9948832364981" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <!-- Linked arms -->
+      <path d="M122 409.9948832364981 Q106 401.9948832364981 92 409.9948832364981" stroke="#fef08a" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.8" />
+    
+      <!-- Dancer 3 -->
+      <circle cx="176" cy="340.10555816661383" r="9" fill="#fcd34d" opacity="0.9" />
+      <path d="M176 349.10555816661383 L162 404.10555816661383 L190 404.10555816661383 Z" fill="#f59e0b" opacity="0.85"/>
+      <path d="M176 404.10555816661383 L164 430.10555816661383 L188 430.10555816661383 Z" fill="#d97706" opacity="0.85"/>
+      <!-- Legs in dynamic Dhemsa step -->
+      <path d="M170 430.10555816661383 L164 456.10555816661383 L156 460.10555816661383" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <path d="M182 430.10555816661383 L192 452.10555816661383 L184 460.10555816661383" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <!-- Linked arms -->
+      <path d="M164 406.10555816661383 Q148 398.10555816661383 134 406.10555816661383" stroke="#fef08a" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.8" />
+    
+      <!-- Dancer 4 -->
+      <circle cx="218" cy="331.29951027886904" r="9" fill="#fcd34d" opacity="0.9" />
+      <path d="M218 340.29951027886904 L204 395.29951027886904 L232 395.29951027886904 Z" fill="#f59e0b" opacity="0.85"/>
+      <path d="M218 395.29951027886904 L206 421.29951027886904 L230 421.29951027886904 Z" fill="#d97706" opacity="0.85"/>
+      <!-- Legs in dynamic Dhemsa step -->
+      <path d="M212 421.29951027886904 L206 447.29951027886904 L198 451.29951027886904" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <path d="M224 421.29951027886904 L234 443.29951027886904 L226 451.29951027886904" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <!-- Linked arms -->
+      <path d="M206 397.29951027886904 Q190 389.29951027886904 176 397.29951027886904" stroke="#fef08a" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.8" />
+    
+      <!-- Dancer 5 -->
+      <circle cx="260" cy="322.91837005630487" r="9" fill="#fcd34d" opacity="0.9" />
+      <path d="M260 331.91837005630487 L246 386.91837005630487 L274 386.91837005630487 Z" fill="#f59e0b" opacity="0.85"/>
+      <path d="M260 386.91837005630487 L248 412.91837005630487 L272 412.91837005630487 Z" fill="#d97706" opacity="0.85"/>
+      <!-- Legs in dynamic Dhemsa step -->
+      <path d="M254 412.91837005630487 L248 438.91837005630487 L240 442.91837005630487" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <path d="M266 412.91837005630487 L276 434.91837005630487 L268 442.91837005630487" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <!-- Linked arms -->
+      <path d="M248 388.91837005630487 Q232 380.91837005630487 218 388.91837005630487" stroke="#fef08a" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.8" />
+    
+      <!-- Dancer 6 -->
+      <circle cx="302" cy="320.0460246939699" r="9" fill="#fcd34d" opacity="0.9" />
+      <path d="M302 329.0460246939699 L288 384.0460246939699 L316 384.0460246939699 Z" fill="#f59e0b" opacity="0.85"/>
+      <path d="M302 384.0460246939699 L290 410.0460246939699 L314 410.0460246939699 Z" fill="#d97706" opacity="0.85"/>
+      <!-- Legs in dynamic Dhemsa step -->
+      <path d="M296 410.0460246939699 L290 436.0460246939699 L282 440.0460246939699" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <path d="M308 410.0460246939699 L318 432.0460246939699 L310 440.0460246939699" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <!-- Linked arms -->
+      <path d="M290 386.0460246939699 Q274 378.0460246939699 260 386.0460246939699" stroke="#fef08a" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.8" />
+    
+      <!-- Dancer 7 -->
+      <circle cx="344" cy="324.42480034553216" r="9" fill="#fcd34d" opacity="0.9" />
+      <path d="M344 333.42480034553216 L330 388.42480034553216 L358 388.42480034553216 Z" fill="#f59e0b" opacity="0.85"/>
+      <path d="M344 388.42480034553216 L332 414.42480034553216 L356 414.42480034553216 Z" fill="#d97706" opacity="0.85"/>
+      <!-- Legs in dynamic Dhemsa step -->
+      <path d="M338 414.42480034553216 L332 440.42480034553216 L324 444.42480034553216" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <path d="M350 414.42480034553216 L360 436.42480034553216 L352 444.42480034553216" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <!-- Linked arms -->
+      <path d="M332 390.42480034553216 Q316 382.42480034553216 302 390.42480034553216" stroke="#fef08a" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.8" />
+    
+      <!-- Dancer 8 -->
+      <circle cx="386" cy="333.39859045820594" r="9" fill="#fcd34d" opacity="0.9" />
+      <path d="M386 342.39859045820594 L372 397.39859045820594 L400 397.39859045820594 Z" fill="#f59e0b" opacity="0.85"/>
+      <path d="M386 397.39859045820594 L374 423.39859045820594 L398 423.39859045820594 Z" fill="#d97706" opacity="0.85"/>
+      <!-- Legs in dynamic Dhemsa step -->
+      <path d="M380 423.39859045820594 L374 449.39859045820594 L366 453.39859045820594" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <path d="M392 423.39859045820594 L402 445.39859045820594 L394 453.39859045820594" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <!-- Linked arms -->
+      <path d="M374 399.39859045820594 Q358 391.39859045820594 344 399.39859045820594" stroke="#fef08a" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.8" />
+    
+      <!-- Dancer 9 -->
+      <circle cx="428" cy="341.5240143661898" r="9" fill="#fcd34d" opacity="0.9" />
+      <path d="M428 350.5240143661898 L414 405.5240143661898 L442 405.5240143661898 Z" fill="#f59e0b" opacity="0.85"/>
+      <path d="M428 405.5240143661898 L416 431.5240143661898 L440 431.5240143661898 Z" fill="#d97706" opacity="0.85"/>
+      <!-- Legs in dynamic Dhemsa step -->
+      <path d="M422 431.5240143661898 L416 457.5240143661898 L408 461.5240143661898" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <path d="M434 431.5240143661898 L444 453.5240143661898 L436 461.5240143661898" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <!-- Linked arms -->
+      <path d="M416 407.5240143661898 Q400 399.5240143661898 386 407.5240143661898" stroke="#fef08a" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.8" />
+    
+      <!-- Dancer 10 -->
+      <circle cx="470" cy="343.8722989594806" r="9" fill="#fcd34d" opacity="0.9" />
+      <path d="M470 352.8722989594806 L456 407.8722989594806 L484 407.8722989594806 Z" fill="#f59e0b" opacity="0.85"/>
+      <path d="M470 407.8722989594806 L458 433.8722989594806 L482 433.8722989594806 Z" fill="#d97706" opacity="0.85"/>
+      <!-- Legs in dynamic Dhemsa step -->
+      <path d="M464 433.8722989594806 L458 459.8722989594806 L450 463.8722989594806" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <path d="M476 433.8722989594806 L486 455.8722989594806 L478 463.8722989594806" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <!-- Linked arms -->
+      <path d="M458 409.8722989594806 Q442 401.8722989594806 428 409.8722989594806" stroke="#fef08a" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.8" />
+    
+      <!-- Dancer 11 -->
+      <circle cx="512" cy="339.01900631470113" r="9" fill="#fcd34d" opacity="0.9" />
+      <path d="M512 348.01900631470113 L498 403.01900631470113 L526 403.01900631470113 Z" fill="#f59e0b" opacity="0.85"/>
+      <path d="M512 403.01900631470113 L500 429.01900631470113 L524 429.01900631470113 Z" fill="#d97706" opacity="0.85"/>
+      <!-- Legs in dynamic Dhemsa step -->
+      <path d="M506 429.01900631470113 L500 455.01900631470113 L492 459.01900631470113" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <path d="M518 429.01900631470113 L528 451.01900631470113 L520 459.01900631470113" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <!-- Linked arms -->
+      <path d="M500 405.01900631470113 Q484 397.01900631470113 470 405.01900631470113" stroke="#fef08a" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.8" />
+    
+      <!-- Dancer 12 -->
+      <circle cx="554" cy="329.9080786253242" r="9" fill="#fcd34d" opacity="0.9" />
+      <path d="M554 338.9080786253242 L540 393.9080786253242 L568 393.9080786253242 Z" fill="#f59e0b" opacity="0.85"/>
+      <path d="M554 393.9080786253242 L542 419.9080786253242 L566 419.9080786253242 Z" fill="#d97706" opacity="0.85"/>
+      <!-- Legs in dynamic Dhemsa step -->
+      <path d="M548 419.9080786253242 L542 445.9080786253242 L534 449.9080786253242" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <path d="M560 419.9080786253242 L570 441.9080786253242 L562 449.9080786253242" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <!-- Linked arms -->
+      <path d="M542 395.9080786253242 Q526 387.9080786253242 512 395.9080786253242" stroke="#fef08a" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.8" />
+    
+      <!-- Dancer 13 -->
+      <circle cx="596" cy="322.06608237097214" r="9" fill="#fcd34d" opacity="0.9" />
+      <path d="M596 331.06608237097214 L582 386.06608237097214 L610 386.06608237097214 Z" fill="#f59e0b" opacity="0.85"/>
+      <path d="M596 386.06608237097214 L584 412.06608237097214 L608 412.06608237097214 Z" fill="#d97706" opacity="0.85"/>
+      <!-- Legs in dynamic Dhemsa step -->
+      <path d="M590 412.06608237097214 L584 438.06608237097214 L576 442.06608237097214" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <path d="M602 412.06608237097214 L612 434.06608237097214 L604 442.06608237097214" stroke="#fcd34d" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      <!-- Linked arms -->
+      <path d="M584 388.06608237097214 Q568 380.06608237097214 554 388.06608237097214" stroke="#fef08a" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.8" />
+    
+  </g>
+
+  <rect x="18" y="18" width="564" height="564" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0.75" />
+  <text x="300" y="580" text-anchor="middle" fill="#fcd34d" font-family="Cinzel, serif, Georgia" font-size="12" letter-spacing="4" opacity="0.8">KANDHAMAL • CHANGU JAGAR</text>
+</svg>
